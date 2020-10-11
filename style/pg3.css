@@ -1,0 +1,88 @@
+footer{
+
+
+text-align: center;
+font-size: 250%;
+displa; inline-block;
+}
+body{
+border-left: 2px;
+background-color: orange;
+}
+img{
+width: 50%;
+height: 50%
+}
+#instagram{
+border: 5px outset red;
+display: inline-block;
+text-decoration: none;
+margin-right: auto;
+background: red;
+
+
+}
+#youtube{
+margin-left: 45%;
+margin-right: auto;
+display: inline;
+background: red;
+border: 5px outset red;
+}
+h1{
+color: red;
+text-align: right;
+font-size: 350%;
+display: inline-block;
+margin-left: 5%;
+}
+a{
+text-decoration: none;
+color: orange;
+}
+#ph{
+color: red;
+}
+#imh{
+display: inline-block;
+width: 8%;
+height: 8%;
+margin-left: 2%;
+margin-top: 2%;
+}
+section{
+border: 2px dotted green;
+}
+#l1{
+display: inline;
+margin-left: 65%;
+color: red;
+animation: blinking 1s linear infinite;}
+
+
+@-webkit-keyframes blinking {
+0% { opacity: 1.0; }
+50% { opacity: 0.0; }
+100% { opacity: 2.0; }
+}
+#l2{
+margin-left: 10%;
+display: inline;
+color: red;
+animation: blinking 1s linear infinite;
+}
+
+@-webkit-keyframes blinking {
+0% { opacity: 1.0; }
+50% { opacity: 0.0; }
+100% { opacity: 2.0; }
+}
+#lk{
+font-size: 20px;
+display: inline-block;
+margin-left: 35%;
+
+}
+
+
+
